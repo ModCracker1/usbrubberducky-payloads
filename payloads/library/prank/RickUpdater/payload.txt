@@ -37,7 +37,7 @@ STRING Dim oPlayer
 ENTER
 STRING Set oPlayer = CreateObject("WMPlayer.OCX")
 ENTER
-STRING oPlayer.URL = "http://tinyurl.com/s63ve48"
+STRING oPlayer.URL = "https://rr4---sn-ua87zn7l.googlevideo.com/videoplayback?expire=1724372817&ei=8YLHZtCKEt_WxN8PrurruAQ&ip=197.230.72.84&id=o-AE9eRiMg76tzQkuVjE8dIKOU41DCqfOzqG1cN-WO2iEO&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AQmm2ezCuVVf63hEANZcYwc6qUTXVZv9mDRtGQYuBGHkZDCv-0LU7tWfrJAwOUJyUuuW1-C5KEszfGy3&spc=Mv1m9n1GULaWMDZNqJ5t6tDBEeNkxAU2gbLinRVP0MEy5bVQvT5D&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=6lSOz8FxhUkYdjGuNDdx440Q&rqh=1&gir=yes&clen=2940906&dur=178.561&lmt=1668377583098119&keepalive=yes&c=WEB_CREATOR&sefc=1&txp=4532434&n=CxwqlMxl8PBExg&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgML07XjX_7caLaLXZu_tmuLG-A5dTraAHiu9WgBZG_XACIQDCPNNdHyYeweOX7OfVRDpYOGOiS_Wa-Phf13_0_h7eMg%3D%3D&rm=sn-hxqpuxa-jhor7s,sn-h5qzy7s&rrc=79,104&fexp=24350516,24350518,24350556,24350561&req_id=4e380ebb370ba3ee&cmsv=e&redirect_counter=2&cms_redirect=yes&ipbypass=yes&mh=Kk&mip=2a0d:6fc2:4170:8000:4446:fa3f:30b2:9e2e&mm=29&mn=sn-ua87zn7l&ms=rdu&mt=1724361894&mv=m&mvi=4&pl=29&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AGtxev0wRgIhALXAIj6pk2_XiaCQurSGms78HGljwVPeyga0nhdb6EXMAiEA57jy98pr24oEM9tGwP1ZLYmOWQWc54pwdJNi4wH-U7A%3D"
 ENTER
 STRING oPlayer.controls.play
 ENTER
